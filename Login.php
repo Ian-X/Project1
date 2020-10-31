@@ -10,4 +10,16 @@
     else{
         echo "Empty email field";
     }
+    echo "<br>";
+    if($_POST['pass']){
+        if(strlen($_POST['pass']) < 8){
+            echo "Password too short. Must be at least 8 character.";
+        }
+        else{
+            echo $_POST['pass'];
+        }
+    }
+    else{
+        echo "Empty password field";
+    }
 ?>

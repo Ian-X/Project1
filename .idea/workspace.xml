@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62070d3-4326-4d3a-bb8f-aac2f4ccd763" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Login.php" afterDir="false" />
+    <list default="true" id="a62070d3-4326-4d3a-bb8f-aac2f4ccd763" name="Default Changelist" comment="Added Login.php">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +53,31 @@
       <option name="presentableId" value="Default" />
       <updated>1604110938017</updated>
       <workItem from="1604110939087" duration="2434000" />
-      <workItem from="1604113635225" duration="661000" />
+      <workItem from="1604113635225" duration="1286000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Login.php">
+      <created>1604114562011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604114562011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Login.php">
+      <created>1604114626526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604114626526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Login.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Login.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="26" key="#Deployment" timestamp="1604112519216">

@@ -4,6 +4,7 @@
             echo "email must include @.";
         }
         else{
+            echo "Email: ";
             echo $_POST['email'];
         }
     }
@@ -16,6 +17,7 @@
             echo "Password too short. Must be at least 8 character.";
         }
         else{
+            echo "Password: ";
             echo $_POST['pass'];
         }
     }

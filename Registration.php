@@ -1,5 +1,6 @@
 <?php
     if($_POST['fname']){
+        echo "First Name: ";
         echo $_POST['fname'];
     }
     else{
@@ -7,6 +8,7 @@
     }
     echo "<br>";
     if($_POST['lname']){
+        echo "Last Name: ";
         echo $_POST['lname'];
     }
     else{
@@ -14,6 +16,7 @@
     }
     echo "<br>";
     if($_POST['bday']){
+        echo "Birthday: ";
         echo $_POST['bday'];
     }
     else{
@@ -25,6 +28,7 @@
             echo "email must include @.";
         }
         else{
+            echo "Email: ";
             echo $_POST['email'];
         }
     }
@@ -37,6 +41,7 @@
             echo "Password too short. Must be at least 8 character.";
         }
         else{
+            echo "Password: ";
             echo $_POST['pass'];
         }
     }

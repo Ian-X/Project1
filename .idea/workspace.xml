@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62070d3-4326-4d3a-bb8f-aac2f4ccd763" name="Default Changelist" comment="Finished part 1">
-      <change afterPath="$PROJECT_DIR$/Registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Registration.php" afterDir="false" />
+    <list default="true" id="a62070d3-4326-4d3a-bb8f-aac2f4ccd763" name="Default Changelist" comment="Create and finished part 2">
+      <change afterPath="$PROJECT_DIR$/NewQuestion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewQuestion.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/Registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/Registration.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604110938017</updated>
       <workItem from="1604110939087" duration="2434000" />
-      <workItem from="1604113635225" duration="1903000" />
+      <workItem from="1604113635225" duration="3896000" />
     </task>
     <task id="LOCAL-00001" summary="Added Login.php">
       <created>1604114562011</created>
@@ -78,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604114996343</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create and finished part 2">
+      <created>1604115700946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604115700946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +96,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Login.php" />
     <MESSAGE value="Finished part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished part 1" />
+    <MESSAGE value="Create and finished part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create and finished part 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="26" key="#Deployment" timestamp="1604112519216">
@@ -118,10 +128,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="468" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604113708679" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604115274614">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604116393779">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604115274614" />
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604116393779" />
     <state x="880" y="266" key="WebDeployment.AddServerDialog.v.1" timestamp="1604111009737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

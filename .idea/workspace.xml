@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62070d3-4326-4d3a-bb8f-aac2f4ccd763" name="Default Changelist" comment="" />
+    <list default="true" id="a62070d3-4326-4d3a-bb8f-aac2f4ccd763" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jcknyb1rjVwkWnAQsW8eJ57AlP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604110938017</updated>
       <workItem from="1604110939087" duration="2434000" />
+      <workItem from="1604113635225" duration="661000" />
     </task>
     <servers />
   </component>
@@ -73,10 +82,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="507" y="266" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1604111462319" />
-    <state x="903" y="265" key="Github.ShareDialog" timestamp="1604113056441">
+    <state x="903" y="265" key="Github.ShareDialog" timestamp="1604113690513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="903" y="265" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604113056441" />
+    <state x="903" y="265" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604113690513" />
+    <state x="468" y="69" key="Github.UntrackedFilesDialog" timestamp="1604113708679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="468" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604113708679" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604113750174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604113750174" />
     <state x="880" y="266" key="WebDeployment.AddServerDialog.v.1" timestamp="1604111009737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

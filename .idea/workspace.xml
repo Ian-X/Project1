@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a62070d3-4326-4d3a-bb8f-aac2f4ccd763" name="Default Changelist" comment="Added Login.php">
+    <list default="true" id="a62070d3-4326-4d3a-bb8f-aac2f4ccd763" name="Default Changelist" comment="Finished part 1">
+      <change afterPath="$PROJECT_DIR$/Registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Registration.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -53,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604110938017</updated>
       <workItem from="1604110939087" duration="2434000" />
-      <workItem from="1604113635225" duration="1286000" />
+      <workItem from="1604113635225" duration="1903000" />
     </task>
     <task id="LOCAL-00001" summary="Added Login.php">
       <created>1604114562011</created>
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604114626526</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished part 1">
+      <created>1604114996343</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604114996343</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,7 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Login.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Login.php" />
+    <MESSAGE value="Finished part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished part 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="26" key="#Deployment" timestamp="1604112519216">
@@ -108,10 +118,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="468" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604113708679" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604113750174">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1604115274614">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604113750174" />
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604115274614" />
     <state x="880" y="266" key="WebDeployment.AddServerDialog.v.1" timestamp="1604111009737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

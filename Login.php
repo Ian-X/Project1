@@ -1,6 +1,6 @@
 <?php
     if($_POST['email']){
-        if(strpos($_POST['email'],"@")){
+        if(!strpos($_POST['email'],"@")){
             echo "email must include @.";
         }
         else{
